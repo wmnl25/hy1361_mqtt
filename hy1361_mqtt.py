@@ -3,7 +3,7 @@ import time
 import struct
 import paho.mqtt.client as mqtt
 
-MQTT_BROKER = "10.7.7.130"
+MQTT_BROKER = "my_ip"
 MQTT_PORT = 1883
 MQTT_USER = "my_user"
 MQTT_PASS = "my_password"
