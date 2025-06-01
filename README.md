@@ -2,6 +2,8 @@
 
 A simple script to read out the HY1361 sound level meter and publish the data to an MQTT server.
 
+Work in progress. Readings >55db seem to be off, something to dig in (protocol).
+
 ---
 
 ## Usage
