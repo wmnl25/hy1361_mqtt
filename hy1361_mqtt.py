@@ -4,7 +4,7 @@ import time
 import paho.mqtt.client as mqtt
 import serial
 
-MQTT_BROKER = "my_ip"
+MQTT_BROKER = "homeassistant.local"
 MQTT_PORT = 1883
 MQTT_USER = "my_user"
 MQTT_PASS = "my_password"
